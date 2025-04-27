@@ -20,6 +20,10 @@
 |          [Random](Random/Random.md)          | `FTP匿名登录`  `FTP密码爆破` `SFTP上传shell` `动态链接库劫持` |
 |          [attack](attack/attack.md)          |              `流量分析` `写私钥提权` `cppw提权`              |
 | [SuidyRevenge](SuidyRevenge/SuidyRevenge.md) |    `目录爆破` `php伪协议无文件木马` `提权` `文件替换提权`    |
+|           [Light](Light/Light.md)            |      `端口信息探测` `nc批量连接tcp端口` `2to3-2.7提权`       |
+|             [DC01](DC01/DC01.md)             |       `smb枚举` `枚举Kerberos SPN` `hashcat` `smb连接`       |
+|             [Zero](Zero/Zero.md)             |                          `MS17-010`                          |
+|             [Liar](Liar/Liar.md)             |                                                              |
 
 
 
